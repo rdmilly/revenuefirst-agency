@@ -1,0 +1,1 @@
+# Assets\n\nImages, logos, brand files, and design exports live here.
